@@ -1,4 +1,6 @@
-# MS2CNN
+# Under construction, we will update it soon.
+
+## MS2CNN
 Predicting MS/MS spectrum based on protein sequence by Deep Convolutional Neural Networks
 
 Prerequisites
