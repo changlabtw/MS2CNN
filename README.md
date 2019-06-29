@@ -23,8 +23,9 @@ following commands:
 
 Usage 
 --------------------
+We only provide length 15 to 19 in peptide charge 2.
 
-	MS2CNN --in seq.fasta --out predition_output  
+	python predict.py -l 19  
 
 
 Input
