@@ -5,7 +5,7 @@ Predicting MS/MS spectrum based on protein sequence by Deep Convolutional Neural
 
 Prerequisites
 --------------
-MS2CNN compilation requires the following tools installed on your system ``Python``, ``Keras`` and ``???``.
+MS2CNN compilation requires the following tools installed on your system ``Python``, ``Keras==2.0.4`` and ``Tensorflow==1.1.0``.
 
 Compile/Installation 
 --------------------
