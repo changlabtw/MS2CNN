@@ -35,3 +35,7 @@ format
 Output
 --------------------
 format
+
+Reference
+--------------------
+[Lin YM, Chen CT, Chang JM. MS2CNN: predicting MS/MS spectrum based on protein sequence using deep convolutional neural networks. BMC Genomics. 2019;20(Suppl 9):906.](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-6297-6)
