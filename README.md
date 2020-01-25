@@ -33,7 +33,7 @@ python predict.py -l length -c charge
 	chareg: 2|3
 ```
 	
-An example commend for peptide charge 2 with lentgh 19
+An example commend for a charge 2 peptide with lentgh 19.
 ```bash
 python predict.py -l 19 -c 2
 ```
